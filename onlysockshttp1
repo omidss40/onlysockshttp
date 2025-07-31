@@ -85,9 +85,9 @@
         "auto",
         "direct",
         "India 🇮🇳",
-        "Poland 🇵🇱",
-        "Poland 🇵🇱",
-        "Poland 🇵🇱",
+        "Poland1 🇵🇱",
+        "Poland2 🇵🇱",
+        "Poland3 🇵🇱",
         "Turkey 🇹🇷",
         "Turkey1 🇹🇷",
         "Australia 🇦🇺",
@@ -107,9 +107,9 @@
       "interval": "10m",
       "outbounds": [
         "India 🇮🇳",
-        "Poland 🇵🇱",
-        "Poland 🇵🇱",
-        "Poland 🇵🇱",
+        "Poland1 🇵🇱",
+        "Poland2 🇵🇱",
+        "Poland3 🇵🇱",
         "Turkey 🇹🇷",
         "Turkey1 🇹🇷",
         "Australia 🇦🇺",
@@ -155,7 +155,7 @@
       }
     },
     {
-      "tag": "Poland 🇵🇱",
+      "tag": "Poland1 🇵🇱",
       "type": "vless",
       "server": "2.56.125.209",
       "server_port": 49868,
@@ -178,7 +178,7 @@
       }
     },
     {
-      "tag": "Poland 🇵🇱",
+      "tag": "Poland2 🇵🇱",
       "type": "vless",
       "server": "46.38.148.241",
       "server_port": 49894,
@@ -194,7 +194,7 @@
       }
     },
     {
-      "tag": "Poland 🇵🇱",
+      "tag": "Poland3 🇵🇱",
       "type": "vless",
       "server": "62.60.207.12",
       "server_port": 2020,
